@@ -1,0 +1,18 @@
+{
+  "name": "@atex/ace-wimson",
+  "version": "1.0.0",
+  "description": "Tool to generate content import json for an ace-ui widget",
+  "main": "lib/wimson.js",
+  "bin": {
+    "wimson": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "walk": "^2.3.14"
+  },
+  "devDependencies": {
+    "release-it": "^13.5.4"
+  }
+}
