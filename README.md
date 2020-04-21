@@ -33,7 +33,7 @@ const options = {
 
 const result = wimson (options);
 
-console.log (JSON.stringify (result), null, ' ');
+console.log (JSON.stringify (result, null, ' '));
 ```
 
 The module exports a function taking an options object that returns the result
