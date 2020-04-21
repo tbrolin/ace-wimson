@@ -2,6 +2,7 @@
   "name": "@atex/ace-wimson",
   "version": "1.0.0",
   "description": "Tool to generate content import json for an ace-ui widget",
+  "repository": "git@github.com:tbrolin/ace-wimson.git",
   "main": "lib/wimson.js",
   "bin": {
     "wimson": "./index.js"
