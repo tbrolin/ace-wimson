@@ -6,6 +6,9 @@
   "bin": {
     "wimson": "./index.js"
   },
+  "scripts": {
+    "release": "release-it"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
