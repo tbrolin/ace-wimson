@@ -3,7 +3,7 @@ Wimson - An Ace UI Widget Import Json Generation Tool
 
 Generates import json for Ace UI widgets.
 
-Files in the files root directory which names contains `manifest.json`, `style.css`,
+Files in the files root directory whose names contains `manifest.json`, `style.css`,
 `template.html` or `widget.js` are treated special in the sense that they are imported with their names
 shortened to the names just listed. *Note that the tool does not examine the widgets manifest
 file but are relying solely on a conventional layout of the file structure.*
